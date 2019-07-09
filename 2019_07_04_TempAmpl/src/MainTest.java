@@ -20,7 +20,9 @@ public class MainTest {
 		System.out.println("Hello World");
 		System.out.println("Hello World");
 		String[] str = {"Hello ","World123"};
-		System.out.println(str[0]+str[1]);
+		System.out.println(str[0]+str[1])	;
+		
+			String[] s = {"World Hello"};	
 	}
 	
 }
